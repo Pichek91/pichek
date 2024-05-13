@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     marginTop: 14,
     marginBottom: 14,
     width:"80%",
-    backgroundColor:"white",
+    backgroundColor:"blue",
     borderRadius: 8,
     padding: 8,
    },
